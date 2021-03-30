@@ -1,1 +1,1 @@
-# pacman.rs
+# pacman
