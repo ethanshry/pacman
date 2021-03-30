@@ -1,0 +1,4 @@
+(
+  title: "Pacman",
+  dimensions: Some((960, 640)),
+)
